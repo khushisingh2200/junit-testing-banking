@@ -21,14 +21,17 @@ It validates key workflows such as account operations, transaction handling, and
 ## Project Structure
 
 banking-system-testing/
-├── src/
-│   ├── main/
-│   │   └── java/
-│   └── test/
-│       ├── java/
-│       └── resources/
-├── pom.xml
-└── README.md
+
+src/
+  main/
+    java/
+
+  test/
+    java/
+    resources/
+
+pom.xml
+README.md
 
 ## Test Scenarios Covered
 
