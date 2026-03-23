@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.banking.BankAccountTest" time="0.014" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.banking.BankAccountTest" time="0.018" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="25"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/25.0.2/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/khushisingh/Downloads/Junit_testing/target/surefire/surefirebooter-20260321124348302_3.jar /Users/khushisingh/Downloads/Junit_testing/target/surefire 2026-03-21T12-43-48_271-jvmRun1 surefire-20260321124348302_1tmp surefire_0-20260321124348302_2tmp"/>
+    <property name="sun.java.command" value="/Users/khushisingh/Downloads/Junit_testing/target/surefire/surefirebooter-20260323151924532_3.jar /Users/khushisingh/Downloads/Junit_testing/target/surefire 2026-03-23T15-19-24_489-jvmRun1 surefire-20260323151924532_1tmp surefire_0-20260323151924532_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/khushisingh/Downloads/Junit_testing/target/test-classes:/Users/khushisingh/Downloads/Junit_testing/target/classes:/Users/khushisingh/.m2/repository/org/junit/jupiter/junit-jupiter/5.10.2/junit-jupiter-5.10.2.jar:/Users/khushisingh/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2.jar:/Users/khushisingh/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/Users/khushisingh/.m2/repository/org/junit/platform/junit-platform-commons/1.10.2/junit-platform-commons-1.10.2.jar:/Users/khushisingh/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.2/junit-jupiter-params-5.10.2.jar:/Users/khushisingh/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2.jar:/Users/khushisingh/.m2/repository/io/cucumber/cucumber-java/7.18.0/cucumber-java-7.18.0.jar:/Users/khushisingh/.m2/repository/io/cucumber/cucumber-core/7.18.0/cucumber-core-7.18.0.jar:/Users/khushisingh/.m2/repository/io/cucumber/cucumber-gherkin/7.18.0/cucumber-gherkin-7.18.0.jar:/Users/khushisingh/.m2/repository/io/cucumber/cucumber-gherkin-messages/7.18.0/cucumber-gherkin-messages-7.18.0.jar:/Users/khushisingh/.m2/repository/io/cucumber/gherkin/28.0.0/gherkin-28.0.0.jar:/Users/khushisingh/.m2/repository/io/cucumber/messages/24.1.0/messages-24.1.0.jar:/Users/khushisingh/.m2/repository/io/cucumber/testng-xml-formatter/0.1.0/testng-xml-formatter-0.1.0.jar:/Users/khushisingh/.m2/repository/io/cucumber/query/12.2.0/query-12.2.0.jar:/Users/khushisingh/.m2/repository/io/cucumber/tag-expressions/6.1.0/tag-expressions-6.1.0.jar:/Users/khushisingh/.m2/repository/io/cucumber/cucumber-expressions/17.1.0/cucumber-expressions-17.1.0.jar:/Users/khushisingh/.m2/repository/io/cucumber/datatable/7.18.0/datatable-7.18.0.jar:/Users/khushisingh/.m2/repository/io/cucumber/cucumber-plugin/7.18.0/cucumber-plugin-7.18.0.jar:/Users/khushisingh/.m2/repository/io/cucumber/docstring/7.18.0/docstring-7.18.0.jar:/Users/khushisingh/.m2/repository/io/cucumber/html-formatter/21.3.1/html-formatter-21.3.1.jar:/Users/khushisingh/.m2/repository/io/cucumber/junit-xml-formatter/0.4.0/junit-xml-formatter-0.4.0.jar:/Users/khushisingh/.m2/repository/io/cucumber/ci-environment/10.0.1/ci-environment-10.0.1.jar:/Users/khushisingh/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/khushisingh/.m2/repository/io/cucumber/cucumber-junit-platform-engine/7.18.0/cucumber-junit-platform-engine-7.18.0.jar:/Users/khushisingh/.m2/repository/org/junit/platform/junit-platform-engine/1.10.2/junit-platform-engine-1.10.2.jar:/Users/khushisingh/.m2/repository/org/junit/platform/junit-platform-suite/1.10.2/junit-platform-suite-1.10.2.jar:/Users/khushisingh/.m2/repository/org/junit/platform/junit-platform-suite-api/1.10.2/junit-platform-suite-api-1.10.2.jar:/Users/khushisingh/.m2/repository/org/junit/platform/junit-platform-suite-engine/1.10.2/junit-platform-suite-engine-1.10.2.jar:/Users/khushisingh/.m2/repository/org/junit/platform/junit-platform-suite-commons/1.10.2/junit-platform-suite-commons-1.10.2.jar:/Users/khushisingh/.m2/repository/org/junit/platform/junit-platform-launcher/1.10.2/junit-platform-launcher-1.10.2.jar:"/>
@@ -29,7 +29,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/khushisingh/Downloads/Junit_testing/target/surefire/surefirebooter-20260321124348302_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/khushisingh/Downloads/Junit_testing/target/surefire/surefirebooter-20260323151924532_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="25.0.2"/>
@@ -59,7 +59,16 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="69.0"/>
   </properties>
-  <testcase name="testWithdrawFail" classname="com.banking.BankAccountTest" time="0.006"/>
-  <testcase name="testWithdrawSuccess" classname="com.banking.BankAccountTest" time="0.001"/>
-  <testcase name="testDeposit" classname="com.banking.BankAccountTest" time="0.0"/>
+  <testcase name="testWithdrawFail" classname="com.banking.BankAccountTest" time="0.009">
+    <system-out><![CDATA[Withdrawal failed! Current Balance: 100.0
+]]></system-out>
+  </testcase>
+  <testcase name="testWithdrawSuccess" classname="com.banking.BankAccountTest" time="0.002">
+    <system-out><![CDATA[Withdrawn: 100.0 | Remaining Balance: 100.0
+]]></system-out>
+  </testcase>
+  <testcase name="testDeposit" classname="com.banking.BankAccountTest" time="0.001">
+    <system-out><![CDATA[Deposited: 50.0 | New Balance: 150.0
+]]></system-out>
+  </testcase>
 </testsuite>
